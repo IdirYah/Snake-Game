@@ -1,0 +1,15 @@
+# Ignorer les fichiers binaires et objets
+*.exe
+*.o
+*.obj
+
+# Ignorer les fichiers de sauvegarde automatiques
+*~
+
+# Ignorer les dossiers temporaires
+bin/
+obj/
+
+# Ignorer les fichiers spécifiques à l'IDE (facultatif)
+*.workspace
+*.depend
